@@ -1,0 +1,198 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #333152;
+    display: flex;
+    justify-content: space-around;
+    height: 55px;
+}
+
+.navbar span{
+    margin-top: 15px;
+}
+
+.navbar a{
+    color: white;
+}
+
+.nav h5{
+    color: #333152;
+}
+
+.nav a{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbarditagi a{
+    display: flex;
+    justify-content: space-around;
+}
+
+.restangle{
+    display: flex;
+    justify-content: center;
+}
+
+.restanglelar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.restangle2{
+    margin-top: 250px;
+}
+
+.dotlar{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.dots2{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+
+.dots{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #000;
+}
+
+.chiziq{
+    width: 100px;
+    height: 5px;
+    margin-top: -20px;
+    background-color: rgb(255, 69, 69);
+}
+
+.top{
+    margin-left: 170px;
+}
+
+.opa{
+    text-align: center;
+}
+
+.opalar{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ohiri button{
+    border: 2px solid red;
+    color: red;
+    height: 40px;
+    background-color: #fff;
+}
+
+.ohiri{
+    margin-left: 170px;
+    display: flex;
+    gap: 50px;
+}
+
+.footer{
+    height: 300px;
+    background-color: #f6f6f7;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer img{
+    margin-left: 170px;
+}
+
+.footer :nth-child(2) h3{
+    width: 30px;
+}
+
+.footer :nth-child(3) h3{
+    width: 250px;
+}
+
+.df{
+    display: flex;
+    gap: 30px;
+    color: #333152;
+}
+
+.kostyumi{
+    margin-left: 170px;
+}
+
+.ddf{
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buttonlar{
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.birinchi{
+     display: flex;
+     justify-content: center;
+}
+
+.birinchi button{
+    background-color: #333152;
+    height: 35px;
+    color: #fff;
+}
+
+.ikkinchilar{
+    display: flex;
+    justify-content: center;
+}
+
+.ikkinchi1{
+    width: 30px;
+    height: 30px;
+    background-color: #e9e9ff;
+    border: 1px solid #000;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.qwerty{
+    margin-left: 170px;
+}
+
+.opalar2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.vibor{
+    width: 150px;
+    border: 1px solid black;
+    height: 20px;
+}
+
+.bt{
+    height: 30px;
+    width: 152px;
+}
+
+.hrr{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 150px;
+}
